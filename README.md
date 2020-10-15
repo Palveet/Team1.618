@@ -13,7 +13,7 @@
 <img src="car.png" alt="Cars Page"/>
 
 <hr>
-<ul><h3>I used</h3> 
+<ul><h3>Following things were used to make --></h3> 
 <li>HTML</li>
 <li>CSS</li>
 <li>Bootstrap</li>
